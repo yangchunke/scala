@@ -1,3 +1,5 @@
+package net.remyang.scala
+
 import scala.io.Source
 
 /**
